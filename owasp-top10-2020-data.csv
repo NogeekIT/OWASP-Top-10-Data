@@ -1,0 +1,10 @@
+﻿NumberofAppsTested,CWE ID,NumberofAppsIssueFound,TimePeriod,ContributorName,ContributorContactEmail,TypeofTesting,PrimaryLanguage,Region,Industry,Category
+17,116,3,2019,Iqbal Singh,singh.iqbal30@gmail.com,Pentesting - External,PHP,APAC,Education,Output encoding
+11,770,11,2019- 2020,Iqbal Singh,singh.iqbal30@gmail.com,Pentesting - Internal,PHP,APAC,Education,API Rate limiting
+7,307,4,2019,Iqbal Singh,singh.iqbal30@gmail.com,Pentesting - Internal,PHP,APAC,Education,Missing Captcha or MFA
+23,284,5,2019,Iqbal Singh,singh.iqbal30@gmail.com,Pentesting - Internal,PHP,APAC,Education,Missing ACL
+50,937,50,2019- 2020,Iqbal Singh,singh.iqbal30@gmail.com,Pentesting - Internal,"PHP, nodejs, Vue, angular",APAC,Education,Vulnerable Libraries
+43,937,43,2019- 2020,Iqbal Singh,singh.iqbal30@gmail.com,Pentesting - Internal,Java,APAC,Payments,Vulnerable Libraries
+10,1032,2,2019,Iqbal Singh,singh.iqbal30@gmail.com,Pentesting - Internal,PHP,APAC,Education,Staging data found in prod
+20,639,1,2019-2020,Iqbal Singh,singh.iqbal30@gmail.com,Pentesting - Internal,PHP,APAC,Education,IDOR
+41,400,2,2020,Vik Upalapati,,Security Testing,"Magento, PHP",APAC,Education,Uncontrolled Resource utilisation
